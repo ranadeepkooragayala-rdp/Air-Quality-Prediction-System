@@ -67,6 +67,19 @@ streamlit run frontend/app.py
 
 ---
 
+## ⚙️ How It Works
+
+1. User enters city name  
+2. System fetches real-time pollution data  
+3. Data is sent to FastAPI backend  
+4. ML model predicts AQI  
+5. Results displayed with:
+   - AQI value
+   - Category
+   - Health advice
+   
+
+
 ## ⚠️ Model File Note
 
 The trained model file (model.pkl) is not included due to GitHub size limitations.
