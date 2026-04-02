@@ -3,6 +3,7 @@ uvicorn
 pandas
 numpy
 scikit-learn
-tensorflow
+streamlit
+plotly
+requests
 joblib
-python-multipart
