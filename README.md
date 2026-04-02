@@ -5,7 +5,8 @@
 
 ## 📸 Demo
 
-(Add screenshot here later)
+<img width="1611" height="709" alt="image" src="https://github.com/user-attachments/assets/379926a8-2cb4-4fb6-b462-54ec990ac5f2" />
+
 
 ---
 
