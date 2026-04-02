@@ -75,6 +75,13 @@ To generate the model:
 
 python ml/train_model.py
 
+## 🧠 Key Learnings
+
+- Built end-to-end ML system
+- Integrated real-time APIs
+- Developed backend using FastAPI
+- Designed interactive UI using Streamlit
+
 
 ## 👨‍💻 Author
 
