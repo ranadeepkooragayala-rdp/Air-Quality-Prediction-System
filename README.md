@@ -1,5 +1,14 @@
 # 🌍 AI-Based Real-Time Air Quality Prediction & Health Advisory System
 
+🚀 Live ML project that predicts Air Quality Index (AQI) using real-time data and provides health recommendations.
+---
+
+## 📸 Demo
+
+(Add screenshot here later)
+
+---
+
 ## 📌 Overview
 This project is an end-to-end AI-powered system that predicts Air Quality Index (AQI) using real-time environmental data and provides health recommendations.
 
