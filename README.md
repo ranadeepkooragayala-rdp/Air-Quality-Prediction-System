@@ -57,6 +57,15 @@ streamlit run frontend/app.py
 
 ---
 
+## ⚠️ Model File Note
+
+The trained model file (model.pkl) is not included due to GitHub size limitations.
+
+To generate the model:
+
+python ml/train_model.py
+
+
 ## 👨‍💻 Author
 
 Ranadeep Kooragayala
